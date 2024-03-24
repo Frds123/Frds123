@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tasnim ferdawsh(@frds123)
-- 👀 I’m interested in ...Software testing and Quality Assurance and learning and developing my knowledge .
+- 👀 I’m interested in ...Project management,Software development,Software testing and Quality Assurance and learning and developing my knowledge .
 - 🌱 I’m currently learning ..Frontend/Software Testing and Quality Assurance/Graphics design/Backend development/AI.
 - 💞️ I’m looking to collaborate on ...Software testing
 - 📫 How to reach me ...
